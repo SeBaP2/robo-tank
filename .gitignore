@@ -1,0 +1,8 @@
+*.class
+robot.database
+
+/sample
+/sampleex
+/samplesentry
+/sampleteam
+/META-INF
